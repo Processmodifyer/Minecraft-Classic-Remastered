@@ -5,6 +5,8 @@ A great extended version of Minecraft Classic 0.30 with newer features and impro
 
 Just feel free to improve this project anytime because this is on WIP and pull requests are accepted at all.
 
+This project has bugs and glitches and they need to be fixed at all, fell free to fix them.
+
 # List of features added:
 
 New Items
