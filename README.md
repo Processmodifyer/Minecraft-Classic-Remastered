@@ -46,4 +46,4 @@ and more
  
  # How to install minecraft classic
  
- Copy natives to C:\Users\(USERNAME)\AppData\Roaming\.mclassic\remastered
+ Copy natives to C:\Users\(USERNAME)\AppData\Roaming\.mclassic\remastered and run the jar file.
