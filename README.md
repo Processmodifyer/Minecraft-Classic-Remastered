@@ -5,7 +5,7 @@ A great extended version of Minecraft Classic 0.30 with newer features and impro
 
 Just feel free to improve this project anytime because this is on WIP and pull requests are accepted at all.
 
-This project has bugs and glitches and they need to be fixed at all, fell free to fix them.
+This project has bugs and glitches and they need to be fixed at all, fell free to fix them, add your own code improvement and classes to src folder, just add everything.
 
 # List of features added:
 
@@ -31,4 +31,16 @@ and more
 # License
 
  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ 
+ # List of Roadmap
+ 
+ Custom Terrain
+ 
+ Flatworld
+ 
+ Day and night cycle
+ 
+ Infinite terrain
+ 
+ Dimensions
 
