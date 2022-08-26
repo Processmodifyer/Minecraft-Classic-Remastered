@@ -43,4 +43,7 @@ and more
  Infinite terrain
  
  Dimensions
-
+ 
+ # How to install minecraft classic
+ 
+ Copy natives to C:\Users\(USERNAME)\AppData\Roaming\.mclassic\remastered
