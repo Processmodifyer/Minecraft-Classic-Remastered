@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/31904670/186921700-6575eccf-b750-4c6d-a35b-92e969982eb7.png)
 
 # Minecraft-Classic-Remastered
-A great extended version of Minecraft Classic 0.30 with newer features and improved content and textures and bringing the classic updates back, it adds more enchantments. 
+A great extended version of Minecraft Classic 0.30 with newer features and improved content and textures and bringing the classic updates back, it adds more enchantments to classic client. 
 
-Just feel free to improve this project anytime because this is on WIP and pull requests accepted.
+Just feel free to improve this project anytime because this is on WIP and pull requests are accepted at all.
 
 # List of features added:
 
